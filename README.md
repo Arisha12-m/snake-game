@@ -31,9 +31,4 @@ This project uses Windows-specific headers (`windows.h`, `conio.h`), so it must 
    ./SnakeGame
    ```
 
-## Team
-- Dua Imran — FA25B1-SE-028
-- Arisha Maryam — FA25B1-SE-036
-- Zoya Rashad — FA25B1-SE-050
 
-Submitted to: Maam Sidra Ejaz
